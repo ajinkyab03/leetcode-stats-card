@@ -1,1 +1,1 @@
-# leetcode-stats-card
+![LeetCode Stats](https://leetcode.com/u/ajinkyab_03/)
